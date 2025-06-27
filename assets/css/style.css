@@ -331,15 +331,16 @@ main {
   gap: 15px;
 }
 
-/* .avatar-box {
-  background: var(--bg-gradient-onyx);
+.avatar-box {
+
   border-radius: 20px;
-} */
+}
+
+
  .avatar-box img {
-  width: 150px; /* adjust as needed */
-  height: 222px;
+  /* width: 150px; /* adjust as needed */
+  height: 222px; */
   border-radius: 10%; /* circular shape */
-  object-fit: cover; /* crops image nicely */
   box-shadow: 0 1px 10px rgba(0, 0, 0, 0.1); /* optional shadow */
 }
 
