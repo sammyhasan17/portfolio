@@ -1,54 +1,38 @@
-Stored in C:\Users\Sammy\Downloads\portfolio-website-2-main\portfolio-website-2-main\test-repo\README.md
+# 🌐 Sam's Portfolio Website
 
+Welcome to my personal portfolio website — a place where I share my work, projects, and professional background.
 
-🤖 Sam Hasan-Silva | Machine Learning & Data Portfolio
-Welcome to my personal portfolio — a responsive website built with HTML, CSS, and JavaScript to showcase my work in Machine Learning, Data Science, and Data Analysis. This site reflects my journey through data, problem-solving, and building meaningful tools with code.
+---
 
-🧠 About Me
-I'm Sam Hasan-Silva, a Data Analyst with a strong foundation in Machine Learning, Python programming, and cloud-based analytics. I'm passionate about turning raw data into actionable insights and building intelligent systems that make life easier.
+## 👋 About Me
 
-🎓 Education: B.S. in Computer Science
+I'm **Sam**, a Data Analyst with a passion for machine learning, finance, and Python development.  
+I’ve worked with **Fortune 100 financial institutions** and hold a **Wall Street Prep Certification**.  
+My experience spans:
 
-💼 Current Role: Data Analyst @ Jacuzzi Group | Corporate Finance
+- Data Analysis & Visualization (Excel, SQL, Power BI, Tableau)  
+- Machine Learning & Automation in real-world applications  
+- Finance & Accounting (FP&A)  
+- Building intelligent systems to turn data into insights  
 
-⚙️ Core Strengths: Data modeling, visualization, machine learning pipelines, and analytical storytelling
+---
 
-🔍 What You’ll Find on This Site
-📊 Projects: Real-world data science, ML models, and interactive dashboards
+## 📂 What You’ll Find Here
 
-🧠 Skills: Python, SQL, TensorFlow, Azure, and more
+- **Projects** – End-to-end ML pipelines, financial models, and data-driven applications.
+- **Resume** – A detailed look at my professional experience and skills.
+- **Blog (Coming Soon)** – Insights and thoughts on data, tech, and finance.
 
-🧾 About Me: A deeper dive into my background and mission
+---
 
-📬 Contact Form: Let’s connect for collaboration or opportunities
+## 🔗 Live Site
 
-🧰 Tech & Tools
-Languages: Python, SQL
+[**View Portfolio**](https://yourwebsiteurl.com)
 
-Libraries: Pandas, NumPy, scikit-learn, TensorFlow, Matplotlib, Plotly
+---
 
-Cloud: Azure, AWS, GCP
+## 📬 Contact
 
-Databases: MySQL, PostgreSQL, SQLite
-
-Other Tools: Git, Excel, Tableau
-
-🚀 Project Themes
-🧠 Machine Learning: Predictive models, classification, regression, neural networks
-
-📈 Data Analysis: Business intelligence, market trends, time series forecasting
-
-📊 Visualization: Dashboards and storytelling with data
-
-☁️ Cloud Integration: Deploying models and managing data pipelines
-
-🌟 Bonus Facts
-I study AI, startups, like nearning new software, and personal development
-
-My mission: Use tech to solve real problems -
-
-📫 Let’s Connect
-🌐 LinkedIn
-
-📧 Email: sammyhasan17@gmail.com
-
+- **Email:** sammyhasan17@gmail.com  
+- **LinkedIn:** [linkedin.com/in/sammy-hasan-silva](https://linkedin.com/in/sammy-hasan-silva)  
+- **GitHub:** [github.com/sammyhasan17](https://github.com/sammyhasan17)
