@@ -27,7 +27,7 @@ My experience spans:
 
 ## 🔗 Live Site
 
-[**View Portfolio**](https://yourwebsiteurl.com)
+[**View Portfolio**](https://sammyhasan17.github.io/portfolio/)
 
 ---
 
